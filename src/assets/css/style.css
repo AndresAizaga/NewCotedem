@@ -143,7 +143,7 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #5f2dee;
+  background-color: red;
   position: relative;
   z-index: 10;
   overflow: hidden;
@@ -151,7 +151,7 @@ p {
   .main-btn::before {
     position: absolute;
     content: '';
-    background-color: #b882fc;
+    background-color: black;
     width: 100%;
     height: 0%;
     left: 50%;
@@ -165,8 +165,8 @@ p {
     opacity: 1; }
   .main-btn:hover {
     background-color: #fff;
-    color: #5f2dee;
-    border-color: #5f2dee; }
+    color: red;
+    border-color: red; }
     .main-btn:hover::before {
       height: 400px;
       opacity: 0; }
@@ -180,7 +180,7 @@ p {
     padding-left: 0;
     padding-top: 20px; } }
 .section-title span {
-  color: #5f2dee;
+  color: red;
   font-size: 16px;
   font-weight: 600;
   position: relative;
@@ -192,7 +192,7 @@ p {
     top: 50%;
     transform: translateY(-50%);
     height: 2px;
-    background: #5f2dee;
+    background: red;
     width: 16px; }
 .section-title .title {
   font-size: 45px;
@@ -212,7 +212,7 @@ p {
       font-size: 30px; } }
 .section-title p {
   font-weight: 500;
-  color: #b0a9c0;
+  color: black;
   line-height: 20pt; }
 .section-title.section-title-2 .title {
   color: #fff; }
@@ -339,7 +339,7 @@ p {
           .header-topbar-info-wrapper .header-topbar-info ul li {
             font-size: 13px; } }
         .header-topbar-info-wrapper .header-topbar-info ul li i {
-          color: #b882fc;
+          color: black;
           padding-right: 10px; }
   .header-topbar-info-wrapper .header-topbar-social {
     background: #f4f2f9;
@@ -406,7 +406,7 @@ p {
       bottom: 0;
       height: 2px;
       width: 0px;
-      background: #5f2dee;
+      background: red;
       transition: all linear 0.3s; }
     .header-main-nav-box ul li a:hover {
       color: #1d1729; }
@@ -571,7 +571,7 @@ p {
       width: 50px;
       text-align: center;
       line-height: 50px;
-      background: #5f2dee;
+      background: red;
       border-radius: 50%; }
     .header-main-info .header-main-info-contact .content {
       display: flex;
@@ -681,7 +681,7 @@ p {
   margin-top: -200px;
   border-radius: 50%;
   text-align: center;
-  background-color: #b882fc;
+  background-color: black;
   width: 70px;
   cursor: pointer;
   font-family: "flaticon";
@@ -893,7 +893,7 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
     .offcanvas_main_menu li a:hover {
-      color: #b882fc; }
+      color: black; }
   .offcanvas_main_menu li ul.sub-menu {
     padding-left: 20px; }
 
@@ -910,7 +910,7 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
     .offcanvas_footer span a:hover {
-      color: #b882fc; }
+      color: black; }
 
 .canvas_close {
   position: absolute;
@@ -934,8 +934,8 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
     .canvas_close a:hover {
-      background: #b882fc;
-      border-color: #b882fc;
+      background: black;
+      border-color: black;
       color: #fff; }
 
 .canvas_open a {
@@ -953,8 +953,8 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
   .canvas_open a:hover {
-    color: #b882fc;
-    border-color: #b882fc; }
+    color: black;
+    border-color: black; }
 
 .offcanvas-social {
   margin-bottom: 40px; }
@@ -965,7 +965,7 @@ p {
       width: 40px;
       text-align: center;
       line-height: 38px;
-      color: #b882fc;
+      color: black;
       border: 1px solid #eaeaea;
       border-radius: 50%;
       margin: 0 5px;
@@ -975,12 +975,12 @@ p {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .offcanvas-social ul li a:hover {
-        background: #b882fc;
-        border-color: #b882fc;
+        background: black;
+        border-color: black;
         color: #fff; }
 
 .infetech-header-area-2 .header-topbar-layout-2 {
-  background: #1d1729;
+  background: red;
   position: relative;
   z-index: 20; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1004,17 +1004,17 @@ p {
       .infetech-header-area-2 .header-topbar-layout-2 .header-topbar-text {
         padding-left: 15px; } }
     .infetech-header-area-2 .header-topbar-layout-2 .header-topbar-text p {
-      color: #b0a9c0;
+      color: black;
       font-weight: 500;
       font-size: 14px; }
   .infetech-header-area-2 .header-topbar-layout-2 .header-topbar-info-wrapper .header-topbar-info {
     display: block; }
     .infetech-header-area-2 .header-topbar-layout-2 .header-topbar-info-wrapper .header-topbar-info ul li {
-      color: #b0a9c0;
+      color: black;
       font-size: 14px;
       font-weight: 500; }
   .infetech-header-area-2 .header-topbar-layout-2 .header-topbar-info-wrapper .header-topbar-social {
-    background: #15101e; }
+    background: red; }
     .infetech-header-area-2 .header-topbar-layout-2 .header-topbar-info-wrapper .header-topbar-social ul li a {
       font-size: 18px;
       color: #fff; }
@@ -1082,7 +1082,7 @@ p {
 .infetech-header-area-2.infetech-header-area-3 .top-line {
   height: 5px;
   width: 100%;
-  background: #b882fc;
+  background: black;
   position: absolute;
   z-index: 199;
   left: 0;
@@ -1094,7 +1094,7 @@ p {
     top: 0;
     height: 5px;
     width: 50%;
-    background: #5f2dee; }
+    background: red; }
 .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 {
   top: 5px;
   background: #fff;
@@ -1125,7 +1125,7 @@ p {
       bottom: 0;
       height: 2px;
       width: 0px;
-      background: #5f2dee;
+      background: red;
       transition: all linear 0.3s; }
     .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 .header-main-nav-box ul li a:hover {
       color: #1d1729; }
@@ -1136,7 +1136,7 @@ p {
   .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 .header-main-info .header-mini-btn::before {
     background: #e4e0ee; }
   .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 .header-main-info .header-main-info-contact .icon {
-    background: #5f2dee; }
+    background: red; }
   .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 .header-main-info .header-main-info-contact .content span {
     color: #6c6a72; }
   .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 .header-main-info .header-main-info-contact .content a {
@@ -1196,7 +1196,7 @@ p {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #5f2dee;
+  background: red;
   -webkit-animation: ball-pulse-sync .6s 0s infinite ease-in-out;
   animation: ball-pulse-sync .6s 0s infinite ease-in-out; }
 
@@ -1464,7 +1464,7 @@ p {
     line-height: 60px;
     border-radius: 50%;
     color: #fff;
-    background: #b882fc;
+    background: black;
     position: relative; }
     .infetech-banner-area-layout-2 .infetech-banner-slide-item .infetech-banner-content .play-btn a::before {
       position: absolute;
@@ -1549,7 +1549,7 @@ p {
       background-image: url(../images/banner-thumb-7.jpg); }
     .infetech-banner-area-layout-2.infetech-banner-area-layout-3 .infetech-banner-slide-item .infetech-banner-content span {
       font-weight: 800;
-      color: #5f2dee;
+      color: red;
       text-transform: uppercase;
       letter-spacing: 2.5px; }
     .infetech-banner-area-layout-2.infetech-banner-area-layout-3 .infetech-banner-slide-item .infetech-banner-content .title {
@@ -1648,7 +1648,7 @@ p {
         top: 0;
         height: 100%;
         width: 100%;
-        border: 1px solid #5f2dee;
+        border: 1px solid red;
         border-radius: 50%;
         animation: play-popup 2s infinite; }
     .infetech-banner-main-area .banner-play-icon .title {
@@ -1712,11 +1712,11 @@ p {
     .infetech-banner-area-4 .banner-content-box .thumb {
       position: relative; }
       .infetech-banner-area-4 .banner-content-box .thumb .icon {
-        background: #b882fc;
+        background: black;
         display: inline-block;
         height: 102px;
         width: 102px;
-        background: #5f2dee;
+        background: red;
         border-radius: 50%;
         text-align: center;
         line-height: 98px;
@@ -1738,7 +1738,7 @@ p {
           transform: translate(-50%, -50%);
           height: 140px;
           width: 140px;
-          border: 20px solid #5f2dee;
+          border: 20px solid red;
           border-radius: 50%;
           opacity: 0.05; }
         .infetech-banner-area-4 .banner-content-box .thumb .icon.icon-2 {
@@ -1825,7 +1825,7 @@ p {
     line-height: 36px;
     margin-bottom: 37px; }
   .banner-content-5 a {
-    border: 1px solid #5f2dee; }
+    border: 1px solid red; }
 
 .breadcrumb-area {
   background-image: url(../images/breadcrumb-bg.png);
@@ -1919,7 +1919,7 @@ p {
       position: absolute;
       top: 240px;
       left: 340px;
-      background: #b882fc;
+      background: black;
       padding: 24px 40px; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
         .infetech-about-area .infetech-about-thumb .about-box {
@@ -1964,9 +1964,9 @@ p {
       line-height: 125px;
       background: #000;
       border-radius: 50%;
-      background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-      background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-      background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+      background-image: -moz-linear-gradient(0deg, red 0%, black 100%);
+      background-image: -webkit-linear-gradient(0deg, red 0%, black 100%);
+      background-image: -ms-linear-gradient(0deg, red 0%, black 100%);
       box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
       position: relative;
       z-index: 10;
@@ -2028,7 +2028,7 @@ p {
       margin-top: 20px; } }
   .infetech-about-content span {
     font-size: 16px;
-    color: #5f2dee;
+    color: red;
     padding-left: 28px;
     position: relative;
     font-weight: 600; }
@@ -2039,7 +2039,7 @@ p {
       bottom: 8px;
       height: 2px;
       width: 16px;
-      background: #5f2dee; }
+      background: red; }
   .infetech-about-content > .title {
     font-size: 45px;
     font-weight: 800;
@@ -2094,10 +2094,10 @@ p {
       color: #000;
       line-height: 38px; }
       .infetech-about-content ul li i {
-        color: #b882fc;
+        color: black;
         padding-right: 9px; }
   .infetech-about-content > a {
-    border: 1px solid #5f2dee; }
+    border: 1px solid red; }
 
 .infetech-about-3-area {
   padding-bottom: 120px;
@@ -2187,7 +2187,7 @@ p {
         background: #fff;
         border-radius: 50%;
         box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.05);
-        border-bottom: 5px solid #5f2dee;
+        border-bottom: 5px solid red;
         display: inline-block; }
         @media (max-width: 767px) {
           .infetech-about-3-area .about-3-content .about-sub-service .icon {
@@ -2202,7 +2202,7 @@ p {
         padding-top: 12px; }
     .infetech-about-3-area .about-3-content .main-btn {
       margin-top: 20px;
-      border: 1px solid #5f2dee; }
+      border: 1px solid red; }
 
 .infetech-about-4-area {
   background-image: url(../images/about-bg.jpg);
@@ -2254,11 +2254,11 @@ p {
     text-align: center;
     line-height: 65px;
     background: #000;
-    background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-    background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-    background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+    background-image: -moz-linear-gradient(0deg, red 0%, black 100%);
+    background-image: -webkit-linear-gradient(0deg, red 0%, black 100%);
+    background-image: -ms-linear-gradient(0deg, red 0%, black 100%);
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
-    color: #5f2dee;
+    color: red;
     position: relative;
     z-index: 10;
     font-size: 16px;
@@ -2280,7 +2280,7 @@ p {
     color: #6c6a72;
     line-height: 30px; }
 .about-thumb-content a {
-  border: 1px solid #5f2dee; }
+  border: 1px solid red; }
 
 /*===========================
     5.SERVICE css 
@@ -2340,9 +2340,9 @@ p {
       .single-infetech-serice-item .content .title a {
         color: #404040; }
         .single-infetech-serice-item .content .title a:hover {
-          color: #5f2dee; }
+          color: red; }
     .single-infetech-serice-item .content .icon {
-      background: #5f2dee;
+      background: red;
       height: 70px;
       width: 70px;
       text-align: center;
@@ -2400,7 +2400,7 @@ p {
     right: 0;
     height: 20px;
     width: 20px;
-    background: #b882fc; }
+    background: black; }
   .single-service-3-item::after {
     position: absolute;
     content: '01';
@@ -2495,7 +2495,7 @@ p {
         color: #fff;
         font-weight: 800;
         text-transform: uppercase;
-        background: #5f2dee;
+        background: red;
         border: 10px solid #fff;
         border-radius: 50%; }
     .infetech-service-slide-3-area .single-service-3-item::after {
@@ -2543,9 +2543,9 @@ p {
       text-align: center;
       line-height: 90px;
       background: #000;
-      background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-      background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-      background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+      background-image: -moz-linear-gradient(0deg, red 0%, black 100%);
+      background-image: -webkit-linear-gradient(0deg, red 0%, black 100%);
+      background-image: -ms-linear-gradient(0deg, red 0%, black 100%);
       box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
       color: #1d1729;
       position: relative;
@@ -2641,7 +2641,7 @@ p {
     z-index: -1; }
 
 .single-infetech-feature-item {
-  background: #15101e;
+  background: red;
   text-align: center;
   margin-top: 90px;
   transition: all linear 0.3s; }
@@ -2654,7 +2654,7 @@ p {
     margin-top: -60px;
     position: relative;
     z-index: 10;
-    background: #15101e;
+    background: red;
     border-radius: 50%;
     transition: all linear 0.3s; }
     .single-infetech-feature-item .icon svg path {
@@ -2670,14 +2670,14 @@ p {
         color: #fff;
         transition: all linear 0.3s; }
     .single-infetech-feature-item .content p {
-      color: #b0a9c0;
+      color: black;
       font-size: 15px;
       transition: all linear 0.3s; }
   .single-infetech-feature-item:hover {
     background: #fff;
     transform: translateY(-10px); }
     .single-infetech-feature-item:hover .icon {
-      background: #5f2dee; }
+      background: red; }
       .single-infetech-feature-item:hover .icon svg path {
         fill: #fff; }
     .single-infetech-feature-item:hover .content .title a {
@@ -2710,9 +2710,9 @@ p {
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: -moz-linear-gradient(180deg, #b882fc 0%, #5f2dee 100%);
-    background-image: -webkit-linear-gradient(180deg, #b882fc 0%, #5f2dee 100%);
-    background-image: -ms-linear-gradient(180deg, #b882fc 0%, #5f2dee 100%);
+    background-image: -moz-linear-gradient(180deg, black 0%, red 100%);
+    background-image: -webkit-linear-gradient(180deg, black 0%, red 100%);
+    background-image: -ms-linear-gradient(180deg, black 0%, red 100%);
     opacity: 0.85;
     z-index: -1; }
   .infetech-cta-box .cta-content .title {
@@ -2748,7 +2748,7 @@ p {
         margin-left: 0;
         margin-top: 15px; } }
     .infetech-cta-box .cta-content .main-btn:hover {
-      background: #5f2dee;
+      background: red;
       color: #fff; }
 
 .infetech-cta-2-area {
@@ -2776,7 +2776,7 @@ p {
       background: #fff;
       color: #1d1729; }
       .infetech-cta-2-area .cta-btn a:hover {
-        background: #b882fc;
+        background: black;
         color: #fff; }
   @media (max-width: 767px) {
     .infetech-cta-2-area .cta-content {
@@ -2836,11 +2836,11 @@ p {
     top: 0;
     width: 10px;
     height: 100%;
-    background: #b882fc; }
+    background: black; }
   .cta-home-box span {
     font-size: 16px;
     font-weight: 600;
-    color: #b882fc; }
+    color: black; }
   .cta-home-box .title {
     font-size: 36px;
     font-weight: 800;
@@ -2925,9 +2925,9 @@ p {
       top: 0;
       height: 100%;
       width: 100%;
-      background-image: -moz-linear-gradient(90deg, #b882fc 0%, rgba(184, 130, 252, 0) 65%);
-      background-image: -webkit-linear-gradient(90deg, #b882fc 0%, rgba(184, 130, 252, 0) 65%);
-      background-image: -ms-linear-gradient(90deg, #b882fc 0%, rgba(184, 130, 252, 0) 65%);
+      background-image: -moz-linear-gradient(90deg, black 0%, rgba(184, 130, 252, 0) 65%);
+      background-image: -webkit-linear-gradient(90deg, black 0%, rgba(184, 130, 252, 0) 65%);
+      background-image: -ms-linear-gradient(90deg, black 0%, rgba(184, 130, 252, 0) 65%);
       z-index: -1;
       opacity: 0;
       transition: all linear 0.3s; }
@@ -2942,7 +2942,7 @@ p {
       color: #000;
       font-weight: 800;
       font-size: 14px;
-      color: #b882fc;
+      color: black;
       text-transform: uppercase;
       transition: all linear 0.3s; }
     .single-project-item .single-project-overlay a {
@@ -2982,7 +2982,7 @@ p {
           margin-top: 15px; } }
       .single-project-item .single-project-overlay a:hover {
         background: #fff;
-        color: #b882fc; }
+        color: black; }
   .single-project-item:hover .single-project-overlay::before {
     opacity: 1; }
   .single-project-item:hover .single-project-overlay span {
@@ -3017,7 +3017,7 @@ p {
       font-size: 0; }
     .infetech-project-slide-2 .slick-dots li.slick-active button,
     .infetech-project-slide .slick-dots li.slick-active button {
-      background: #5f2dee; }
+      background: red; }
 
 .infetech-sponser-area {
   padding-bottom: 80px; }
@@ -3126,7 +3126,7 @@ p {
         line-height: 52px;
         border-radius: 50%;
         color: #fff;
-        background: #b882fc; }
+        background: black; }
 
 .infetech-project-slider-area-2 {
   padding-top: 120px;
@@ -3160,7 +3160,7 @@ p {
         font-size: 24px;
         color: #1d1729; }
       .infetech-project-slider-area-2 .single-project-slider-item .content span {
-        color: #b882fc;
+        color: black;
         font-weight: 800;
         margin-top: 2px; }
       .infetech-project-slider-area-2 .single-project-slider-item .content .link {
@@ -3177,7 +3177,7 @@ p {
     .infetech-project-slider-area-2 .single-project-slider-item:hover .thumb img {
       transform: scale(1.1); }
     .infetech-project-slider-area-2 .single-project-slider-item:hover .content .link {
-      background: #5f2dee;
+      background: red;
       color: #fff; }
 
 .project-slider-active .slick-dots {
@@ -3196,7 +3196,7 @@ p {
       width: 16px;
       font-size: 0; }
     .project-slider-active .slick-dots li.slick-active button {
-      background: #5f2dee; }
+      background: red; }
 
 .infetech-project-3-area {
   padding-top: 112px;
@@ -3245,7 +3245,7 @@ p {
     top: 0;
     height: 410px;
     width: 100%;
-    background: #5f2dee;
+    background: red;
     z-index: -1; }
   .infetech-project-4-area .section-title {
     text-align: center; }
@@ -3293,7 +3293,7 @@ p {
     .projects-details-list-box .projects-list-item .title {
       font-size: 16px;
       font-weight: 700;
-      color: #5f2dee;
+      color: red;
       text-transform: capitalize;
       padding-top: 6px; }
   .projects-details-list-box .social ul li {
@@ -3309,7 +3309,7 @@ p {
       background: #fff;
       margin-right: 10px; }
       .projects-details-list-box .social ul li a:hover {
-        background: #5f2dee;
+        background: red;
         color: #fff; }
 
 .projects-details-content {
@@ -3378,7 +3378,7 @@ p {
           color: #1d1729;
           transition: all linear 0.3s; }
         .projects-details-content .projects-details-page-changer ul li:hover .icon i {
-          background: #5f2dee;
+          background: red;
           color: #fff; }
 
 .projects-details-thumb img {
@@ -3463,7 +3463,7 @@ p {
           transform: translate(-50%, -50%);
           height: 130px;
           width: 130px;
-          border: 6px solid #5f2dee;
+          border: 6px solid red;
           border-radius: 50%; }
           @media (max-width: 767px) {
             .infetech-testimonial-area .single-testimonial-box .single-testimonial-user .thumb::before {
@@ -3498,7 +3498,7 @@ p {
         .infetech-testimonial-area .single-testimonial-box .single-testimonial-user .user-content span {
           font-weight: 600;
           font-size: 14px;
-          color: #5f2dee; }
+          color: red; }
         .infetech-testimonial-area .single-testimonial-box .single-testimonial-user .user-content img {
           position: absolute;
           right: 55px;
@@ -3557,7 +3557,7 @@ p {
       width: 16px;
       font-size: 0; }
     .infetech-testimonial-slide .slick-dots li.slick-active button {
-      background: #5f2dee; }
+      background: red; }
 
 .infetech-testimonial-4-area {
   background-image: url(../images/testimonial-bg-2.jpg);
@@ -3617,7 +3617,7 @@ p {
         height: 75px;
         width: 75px;
         border-radius: 50%;
-        background: #b882fc;
+        background: black;
         z-index: -1; }
   .infetech-testimonial-4-area .testimonial-content-4 {
     padding-left: 95px; }
@@ -3630,15 +3630,15 @@ p {
         padding-left: 0;
         margin-top: 20px; } }
     .infetech-testimonial-4-area .testimonial-content-4 .section-title span {
-      color: #b0a9c0; }
+      color: black; }
       .infetech-testimonial-4-area .testimonial-content-4 .section-title span::before {
-        background: #b0a9c0; }
+        background: black; }
     .infetech-testimonial-4-area .testimonial-content-4 .section-title .title {
       color: #fff; }
     .infetech-testimonial-4-area .testimonial-content-4 .section-title p {
       font-weight: 500;
       line-height: 40px;
-      color: #b0a9c0;
+      color: black;
       font-size: 20px;
       margin-top: 25px; }
   .infetech-testimonial-4-area .clients-info {
@@ -3647,7 +3647,7 @@ p {
       color: #fff;
       font-size: 20px; }
       .infetech-testimonial-4-area .clients-info .title span {
-        color: #b882fc;
+        color: black;
         font-size: 14px;
         font-weight: 500;
         padding-left: 14px;
@@ -3751,9 +3751,9 @@ p {
       left: 50%;
       top: 50%;
       transform: translate(-50%, -50%);
-      background-image: -moz-linear-gradient(87deg, #5f2dee 0%, #b882fc 100%);
-      background-image: -webkit-linear-gradient(87deg, #5f2dee 0%, #b882fc 100%);
-      background-image: -ms-linear-gradient(87deg, #5f2dee 0%, #b882fc 100%);
+      background-image: -moz-linear-gradient(87deg, red 0%, black 100%);
+      background-image: -webkit-linear-gradient(87deg, red 0%, black 100%);
+      background-image: -ms-linear-gradient(87deg, red 0%, black 100%);
       height: 100%;
       width: 100%;
       border-radius: 50%;
@@ -3768,7 +3768,7 @@ p {
   .testimonial-slide-active-5 .testimonial-slide-item .box .content span {
     font-size: 16px;
     font-weight: 600;
-    color: #5f2dee;
+    color: red;
     padding-bottom: 6px; }
   .testimonial-slide-active-5 .testimonial-slide-item .box .content ul li {
     display: inline-block;
@@ -3805,7 +3805,7 @@ p {
       width: 16px;
       font-size: 0; }
     .testimonial-slide-active-5 .slick-dots li.slick-active button {
-      background: #5f2dee; }
+      background: red; }
 
 /*===========================
     10.TESTIMONIAL css 
@@ -3895,7 +3895,7 @@ p {
       top: -4px;
       height: 8px;
       width: 8px;
-      background: #b882fc; }
+      background: black; }
     .single-tema-item .top-line::after {
       position: absolute;
       content: '';
@@ -3903,7 +3903,7 @@ p {
       bottom: 80px;
       height: 8px;
       width: 8px;
-      background: #5f2dee; }
+      background: red; }
   .single-tema-item .thumb {
     overflow: hidden; }
     .single-tema-item .thumb img {
@@ -3922,7 +3922,7 @@ p {
       position: absolute;
       right: 0;
       top: 18px;
-      background: #5f2dee;
+      background: red;
       height: 50px;
       width: 50px;
       text-align: center;
@@ -3950,7 +3950,7 @@ p {
             display: block;
             color: #1d1729; }
             .single-tema-item .content .share-icon ul li a:hover {
-              color: #5f2dee; }
+              color: red; }
       .single-tema-item .content .share-icon:hover ul {
         transform: rotateY(0deg);
         opacity: 1; }
@@ -3994,7 +3994,7 @@ p {
       top: -4px;
       height: 8px;
       width: 8px;
-      background: #b882fc; }
+      background: black; }
     .team-details-area .team-details-thumb .top-line::after {
       position: absolute;
       content: '';
@@ -4002,7 +4002,7 @@ p {
       bottom: 80px;
       height: 8px;
       width: 8px;
-      background: #5f2dee; }
+      background: red; }
 .team-details-area .team-details-content {
   padding-left: 70px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -4022,7 +4022,7 @@ p {
   .team-details-area .team-details-content span {
     font-size: 18px;
     font-weight: 600;
-    color: #5f2dee;
+    color: red;
     margin-bottom: 18px;
     padding-top: 5px; }
   .team-details-area .team-details-content ul li {
@@ -4038,12 +4038,12 @@ p {
       color: #1d1729;
       font-size: 14px; }
       .team-details-area .team-details-content ul li a:hover {
-        background: #5f2dee;
+        background: red;
         color: #fff; }
   .team-details-area .team-details-content h2 {
     font-size: 30px;
     font-weight: 500;
-    color: #5f2dee;
+    color: red;
     line-height: 36px; }
     @media (max-width: 767px) {
       .team-details-area .team-details-content h2 {
@@ -4090,7 +4090,7 @@ p {
     .team-progress-area .team-progress-box::before {
       position: absolute;
       content: '';
-      border: 2px solid #5f2dee;
+      border: 2px solid red;
       left: 50%;
       top: 50%;
       transform: translate(-50%, -50%);
@@ -4183,7 +4183,7 @@ p {
     line-height: 60px;
     border-radius: 50%;
     color: #fff;
-    background: #b882fc;
+    background: black;
     position: relative; }
     .infetech-video-area .video-content .play-btn a::before {
       position: absolute;
@@ -4248,7 +4248,7 @@ p {
       flex-direction: row;
       column-gap: 30px; } }
   .video-content-wrapper .video-content-box {
-    background: #b882fc;
+    background: black;
     display: inline-block;
     padding: 50px; }
     .video-content-wrapper .video-content-box .title {
@@ -4259,7 +4259,7 @@ p {
       font-size: 18px;
       color: #fff; }
     .video-content-wrapper .video-content-box.item-2 {
-      background: #5f2dee; }
+      background: red; }
 
 /*===========================
     12.BLOG css 
@@ -4310,7 +4310,7 @@ p {
     position: absolute;
     top: 20px;
     left: 20px;
-    background: #5f2dee;
+    background: red;
     color: #fff;
     font-size: 10px;
     font-weight: 700;
@@ -4359,7 +4359,7 @@ p {
       .single-blog-item .content .blog-meta ul li:last-child::before {
         display: none; }
     .single-blog-item .content .blog-meta ul li i {
-      color: #5f2dee; }
+      color: red; }
   .single-blog-item .content .blog-meta .title a {
     font-size: 24px;
     color: #1d1729;
@@ -4387,9 +4387,9 @@ p {
   box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05); }
   .single-blog-item:hover .content .blog-meta > a {
     color: #fff;
-    background: #b882fc; }
+    background: black; }
   .single-blog-item:hover .content .blog-meta .title a {
-    color: #5f2dee; }
+    color: red; }
 
 .infetech-blog-area-2 {
   padding-top: 120px;
@@ -4464,7 +4464,7 @@ p {
   position: relative; }
   .blog-sidebar .input-box input {
     width: 100%;
-    background: #b882fc;
+    background: black;
     height: 84px;
     padding-left: 50px;
     color: #fff;
@@ -4535,7 +4535,7 @@ p {
         .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content span {
           font-size: 14px; } }
       .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content span i {
-        color: #5f2dee;
+        color: red;
         padding-right: 4px; }
     .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content .title {
       font-size: 18px;
@@ -4545,7 +4545,7 @@ p {
         .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content .title {
           font-size: 14px; } }
       .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content .title:hover {
-        color: #5f2dee; }
+        color: red; }
     .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item:hover {
       background: #fff;
       box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.05); }
@@ -4576,7 +4576,7 @@ p {
           right: auto;
           left: 0; }
         .blog-sidebar .blog-widgets.blog-category-sidebar ul li a:hover i {
-          color: #5f2dee; }
+          color: red; }
   .blog-sidebar .blog-widgets.blog-tags ul {
     padding-left: 20px; }
     .blog-sidebar .blog-widgets.blog-tags ul li {
@@ -4591,7 +4591,7 @@ p {
         margin-bottom: 10px;
         margin-right: 6px; }
         .blog-sidebar .blog-widgets.blog-tags ul li a:hover {
-          background: #5f2dee;
+          background: red;
           color: #fff; }
 
 .blog-details-box .top-content .thumb img {
@@ -4649,7 +4649,7 @@ p {
       display: inline-block;
       margin-right: 6px; }
       .blog-social-box .blgo-tags-details ul li a {
-        background: #5f2dee;
+        background: red;
         color: #fff;
         padding: 9px 20px;
         font-size: 12px;
@@ -4669,7 +4669,7 @@ p {
           margin-left: 0;
           margin-right: 15px; } }
       .blog-social-box .blog-social-details ul li a:hover {
-        color: #5f2dee; }
+        color: red; }
 
 .blog-post-prev-next {
   background: #f4f2f9;
@@ -4697,7 +4697,7 @@ p {
     .blog-post-prev-next .title a {
       color: #1d1729; }
   .blog-post-prev-next:hover {
-    background: #5f2dee; }
+    background: red; }
     .blog-post-prev-next:hover .title a {
       color: #fff; }
 
@@ -4745,7 +4745,7 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        border: 1px solid #5f2dee;
+        border: 1px solid red;
         line-height: 34px;
         padding: 0 20px; }
 
@@ -4782,7 +4782,7 @@ p {
     opacity: 1; }
 .blog-form-box .input-box button {
   margin-top: 20px;
-  border: 1px solid #5f2dee; }
+  border: 1px solid red; }
 
 /*===========================
     13.FOOTER css 
@@ -4814,7 +4814,7 @@ p {
       bottom: 0;
       height: 2px;
       width: 17px;
-      background: #5f2dee; }
+      background: red; }
       @media (max-width: 767px) {
         .infetech-footer-area .title::before {
           left: 50%;
@@ -4826,7 +4826,7 @@ p {
 .footer-about > a {
   max-width: 165px; }
 .footer-about p {
-  color: #b0a9c0;
+  color: black;
   line-height: 30px;
   margin-top: 18px; }
 .footer-about ul {
@@ -4841,23 +4841,23 @@ p {
     width: 45px;
     text-align: center;
     line-height: 48px;
-    background: #15101e;
+    background: red;
     border-radius: 50%;
     color: #aea8b9;
     font-size: 18px; }
     .footer-about ul li a:hover {
-      background: #5f2dee; }
+      background: red; }
 
 @media (max-width: 767px) {
   .footer-nav {
     margin-top: 30px;
     text-align: center; } }
 .footer-nav ul li a {
-  color: #b0a9c0;
+  color: black;
   font-size: 16px;
   line-height: 34px; }
   .footer-nav ul li a:hover {
-    color: #5f2dee; }
+    color: red; }
 
 .footer-newsletter {
   margin-right: 90px; }
@@ -4871,7 +4871,7 @@ p {
       text-align: center;
       margin-right: 0; } }
   .footer-newsletter p {
-    color: #b0a9c0;
+    color: black;
     line-height: 30px;
     margin-bottom: 21px; }
   .footer-newsletter .input-box {
@@ -4900,7 +4900,7 @@ p {
       border: 0;
       color: #fff;
       font-size: 18px;
-      background: #5f2dee; }
+      background: red; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-info {
@@ -4913,7 +4913,7 @@ p {
   display: flex;
   align-items: flex-start;
   gap: 13px;
-  color: #b0a9c0;
+  color: black;
   margin-bottom: 10px; }
   @media (max-width: 767px) {
     .footer-info ul li {
@@ -4921,16 +4921,16 @@ p {
   .footer-info ul li i {
     color: #000;
     font-size: 14px;
-    color: #b882fc; }
+    color: black; }
 
 .footer-copyright {
-  background: #15101e;
+  background: red;
   border-top: 1px solid #322d3d;
   padding: 30px 0; }
   .footer-copyright p {
-    color: #b0a9c0; }
+    color: black; }
     .footer-copyright p a {
-      color: #b882fc; }
+      color: black; }
 
 /*===== Go Top =====*/
 .go-top-area {
@@ -4942,7 +4942,7 @@ p {
     top: 0;
     right: 24px;
     color: #ffffff;
-    background-color: #b882fc;
+    background-color: black;
     z-index: 9999;
     width: 40px;
     text-align: center;
@@ -4985,7 +4985,7 @@ p {
       width: 100%;
       height: 100%;
       z-index: -1;
-      background-color: #b882fc;
+      background-color: black;
       opacity: 0;
       visibility: hidden;
       -webkit-transition: all 0.5s ease-out 0s;
@@ -5036,7 +5036,7 @@ p {
     color: #fff;
     top: 3px;
     z-index: 1;
-    background: #b882fc;
+    background: black;
     border-radius: 10px; }
     .go-top-wrap .go-top-btn i {
       font-size: 20px;
@@ -5056,7 +5056,7 @@ p {
       -o-animation: ripple 1.6s ease-out infinite;
       animation: ripple 1.6s ease-out infinite;
       opacity: 0;
-      background: #b882fc;
+      background: black;
       border-radius: 10px; }
     .go-top-wrap .go-top-btn:hover {
       background-color: #1d1729;
@@ -5159,7 +5159,7 @@ p {
 .footer-about-4 ul li a {
   font-size: 24px;
   font-weight: 700;
-  color: #5f2dee; }
+  color: red; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-list-4 {
@@ -5175,7 +5175,7 @@ p {
   color: #6c6a72;
   line-height: 32px; }
   .footer-list-4 ul li a:hover {
-    color: #5f2dee; }
+    color: red; }
 
 .footer-address {
   padding-right: 30px; }
@@ -5212,7 +5212,7 @@ p {
     line-height: 48px;
     border-radius: 50%;
     color: #fff;
-    background: #5f2dee; }
+    background: red; }
 
 .infetech-footer-4-area.footer-copyright {
   text-align: center;
@@ -5299,7 +5299,7 @@ p {
       .clients-tabs-item ul.nav li button.active span {
         color: #fff; }
       .clients-tabs-item ul.nav li button.active svg {
-        fill: #b882fc; }
+        fill: black; }
 
 .clients-content-box .title {
   font-size: 30px;
@@ -5311,7 +5311,7 @@ p {
   line-height: 30px;
   margin-bottom: 32px; }
 .clients-content-box a {
-  border: 1px solid #5f2dee; }
+  border: 1px solid red; }
 
 .infetech-clients-3-area {
   padding-top: 112px;
@@ -5406,7 +5406,7 @@ p {
       background: #f2f0f7; } }
   .faq-box-area .faq-box-item {
     padding: 30px 30px 30px 60px;
-    background: #b882fc;
+    background: black;
     display: flex;
     align-items: center;
     justify-content: space-between; }
@@ -5434,7 +5434,7 @@ p {
       color: #1d1729;
       line-height: 60px; }
       .faq-box-area .faq-box-item a:hover {
-        background: #5f2dee;
+        background: red;
         color: #fff; }
 
 .infetech-clients-4-area {
@@ -5488,7 +5488,7 @@ p {
     margin: 14px 0 20px;
     transition: all linear 0.3s; }
   .clients-4-item .icon {
-    background: #5f2dee;
+    background: red;
     height: 100px;
     width: 100px;
     text-align: center;
@@ -5509,7 +5509,7 @@ p {
     .clients-4-item:hover .icon {
       background: #fff; }
       .clients-4-item:hover .icon svg {
-        fill: #5f2dee; }
+        fill: red; }
 
 /*===========================
     15.TESTIMONIAL css 
@@ -5578,7 +5578,7 @@ p {
   .information-content span {
     font-size: 24px;
     font-weight: 700;
-    color: #b882fc;
+    color: black;
     margin-top: 30px;
     margin-bottom: 13px; }
   .information-content p {
@@ -5602,7 +5602,7 @@ p {
       width: 4px;
       height: 80px;
       border-radius: 10px;
-      background: #b882fc; }
+      background: black; }
     .information-content .quote-text p {
       font-size: 18px;
       color: #1d1729;
@@ -5625,7 +5625,7 @@ p {
       .information-content .information-btns .play-btn a {
         height: 60px;
         width: 60px;
-        background: #b882fc;
+        background: black;
         border-radius: 50%;
         text-align: center;
         line-height: 60px;
@@ -5692,9 +5692,9 @@ p {
     width: 130px;
     text-align: center;
     line-height: 130px;
-    background-image: -moz-linear-gradient(0deg, #b882fc 0%, #5f2dee 100%);
-    background-image: -webkit-linear-gradient(0deg, #b882fc 0%, #5f2dee 100%);
-    background-image: -ms-linear-gradient(0deg, #b882fc 0%, #5f2dee 100%);
+    background-image: -moz-linear-gradient(0deg, black 0%, red 100%);
+    background-image: -webkit-linear-gradient(0deg, black 0%, red 100%);
+    background-image: -ms-linear-gradient(0deg, black 0%, red 100%);
     position: absolute;
     left: 0;
     bottom: 20px; }
@@ -5715,9 +5715,9 @@ p {
   background-position: center;
   background-repeat: no-repeat; }
   .infetech-offer-category-area .section-title span {
-    color: #b882fc; }
+    color: black; }
     .infetech-offer-category-area .section-title span::before {
-      background: #b882fc; }
+      background: black; }
   .infetech-offer-category-area .section-title .title {
     color: #fff; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -5729,7 +5729,7 @@ p {
   .infetech-offer-category-area .offer-content p {
     font-size: 16px;
     font-weight: 500;
-    color: #b0a9c0;
+    color: black;
     line-height: 30px;
     margin: 28px 30px 48px 0; }
 
@@ -5749,12 +5749,12 @@ p {
     transition: all linear 0.3s; }
     .offer-category-item .box a i {
       font-size: 30px;
-      color: #b882fc;
+      color: black;
       margin-right: 20px;
       transition: all linear 0.3s; }
   .offer-category-item .box:hover a {
-    background: #5f2dee;
-    border-color: #5f2dee; }
+    background: red;
+    border-color: red; }
     .offer-category-item .box:hover a i {
       color: #fff; }
 
@@ -5803,7 +5803,7 @@ p {
   border: 1px solid #e4e0ee;
   font-weight: 800;
   text-transform: uppercase;
-  color: #5f2dee;
+  color: red;
   padding: 8px 28px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .fun-facts-item .content-box span {
@@ -5870,7 +5870,7 @@ p {
     text-align: center;
     line-height: 56px;
     color: #fff;
-    background: #b882fc;
+    background: black;
     margin-right: 30px;
     font-size: 24px; }
   .company-service-item .content .title {
@@ -5975,7 +5975,7 @@ p {
   color: #1d1729; }
   .promo-banner-item a:hover {
     color: #fff;
-    background: #5f2dee; }
+    background: red; }
 
 /*===========================
     19.TECHNOLOGY css 
@@ -6116,7 +6116,7 @@ p {
     min-width: 60px;
     text-align: center;
     line-height: 60px;
-    background: #b882fc;
+    background: black;
     font-size: 20px;
     color: #fff;
     border-radius: 50%; }
@@ -6188,12 +6188,12 @@ p {
       width: 100%;
       height: 60px;
       line-height: 60px;
-      border: 1px solid #5f2dee; }
+      border: 1px solid red; }
 
 .infetech-subscribe-area {
   padding-top: 110px;
   padding-bottom: 110px;
-  background: #5f2dee;
+  background: red;
   background-image: url(../images/subscribe-shape.png);
   background-position: top right;
   background-repeat: no-repeat;
@@ -6272,7 +6272,7 @@ p {
   position: relative; }
 
 .checkbox_common input[type="checkbox"] + label span:before {
-  color: #5f2dee;
+  color: red;
   content: "\f00c";
   font-family: 'Font Awesome 5 Pro';
   font-size: 9px;
@@ -6334,9 +6334,9 @@ p {
     text-align: center;
     line-height: 90px;
     border-radius: 50%;
-    background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-    background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-    background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+    background-image: -moz-linear-gradient(0deg, red 0%, black 100%);
+    background-image: -webkit-linear-gradient(0deg, red 0%, black 100%);
+    background-image: -ms-linear-gradient(0deg, red 0%, black 100%);
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
     position: relative;
     z-index: 10;
@@ -6468,7 +6468,7 @@ p {
   .benefits-content .content-box span {
     font-size: 20px;
     font-weight: 700;
-    color: #5f2dee; }
+    color: red; }
   .benefits-content .content-box p {
     color: #6c6a72;
     font-weight: 500;
@@ -6508,7 +6508,7 @@ p {
         font-size: 16px;
         line-height: 20px; } }
 .benefits-content > a {
-  border: 1px solid #5f2dee;
+  border: 1px solid red;
   margin-top: 48px; }
 
 /*===========================
@@ -6537,7 +6537,7 @@ p {
     top: 0;
     height: 100%;
     width: 0%;
-    background: #5f2dee;
+    background: red;
     z-index: -4;
     transition: all linear 0.3s;
     opacity: 0; }
@@ -6630,9 +6630,9 @@ p {
         display: none; } }
 
 .solutions-content .section-title span {
-  color: #b0a9c0; }
+  color: black; }
   .solutions-content .section-title span::before {
-    background: #b0a9c0; }
+    background: black; }
 .solutions-content .section-title .title {
   color: #fff; }
 .solutions-content .solutions-box-content {
@@ -6641,10 +6641,10 @@ p {
     font-weight: 600;
     font-size: 18px;
     line-height: 30px;
-    color: #5f2dee;
+    color: red;
     margin-bottom: 25px; }
   .solutions-content .solutions-box-content p {
-    color: #b0a9c0;
+    color: black;
     font-weight: 500;
     line-height: 30px;
     margin-bottom: 29px; }
@@ -6780,7 +6780,7 @@ p {
     .single-pricing-box .price-box > span {
       font-size: 60px;
       font-weight: 800;
-      color: #5f2dee;
+      color: red;
       padding-top: 25px;
       transition: all linear 0.3s; }
       @media (max-width: 767px) {
@@ -6798,7 +6798,7 @@ p {
     .single-pricing-box .price-featured span {
       font-size: 18px;
       font-weight: 600;
-      color: #5f2dee;
+      color: red;
       padding-bottom: 8px;
       transition: all linear 0.3s; }
     .single-pricing-box .price-featured ul li {
@@ -6828,6 +6828,6 @@ p {
   .single-pricing-box:hover .price-featured a, .single-pricing-box.active .price-featured a {
     border: 1px solid #fff;
     background: #fff;
-    color: #5f2dee; }
+    color: red; }
 
 /*# sourceMappingURL=style.css.map */
